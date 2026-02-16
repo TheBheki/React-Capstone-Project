@@ -64,11 +64,11 @@ npm start
 
 5. Folder Structure
    src/
-      components/ # Reusable UI (Header, EventCard)
-      context/ # Global State (AuthContext, EventContext)
-      routes/ # Page views (Dashboard, AddEventForm, Help, etc.)
-      App.jsx # Router configuration and Providers
-      index.jsx # Entry point
+      - components/ # Reusable UI (Header, EventCard)
+      - context/ # Global State (AuthContext, EventContext)
+      - routes/ # Page views (Dashboard, AddEventForm, Help, etc.)
+      - App.jsx # Router configuration and Providers
+      - index.jsx # Entry point
 
 6. Usage
 
